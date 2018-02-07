@@ -1,0 +1,6 @@
+[submodule "weather-frontend"]
+	path = weather-frontend
+	url = git@github.com:OtterleyW/weather-frontend.git
+[submodule "weather-backend"]
+	path = weather-backend
+	url = git@github.com:OtterleyW/weather-backend.git
